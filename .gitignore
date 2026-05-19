@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models
+*.pkl
+
+# Data
+*.csv
+*.xlsx
+
+# VSCode
+.vscode/
+
+# Mac
+.DS_Store
