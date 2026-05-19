@@ -1,0 +1,5 @@
+Horizon,Model,Test MSE,Best Params
+24,Random Forest,25696.46106274685,"{'model__max_depth': 10, 'model__max_features': 0.8, 'model__min_samples_leaf': 2, 'model__min_samples_split': 5, 'model__n_estimators': 100}"
+24,XGBoost,32361.174023721785,"{'model__colsample_bytree': 0.8, 'model__learning_rate': 0.1, 'model__max_depth': 5, 'model__min_child_weight': 3, 'model__n_estimators': 200, 'model__reg_lambda': 1, 'model__subsample': 1.0}"
+24,Neural Network,34101.0697335976,"{'model__alpha': 0.0001, 'model__hidden_layer_sizes': (64, 32), 'model__learning_rate_init': 0.001}"
+24,Linear Regression,35983.60116533474,{}
